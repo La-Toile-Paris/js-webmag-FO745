@@ -1,0 +1,252 @@
+{
+  "journalTitre": "Pop Russe Magazine",
+  "hookPhrase": "Le son vibrant de la pop russe contemporaine",
+  "brandMark": "assets/images/logo.svg",
+  "ctaText": "Rejoignez la scène pop russe",
+  "ctaButtonLabel": "S'inscrire",
+  "featureStory": {
+    "heading": "La vague Pop Russe : de Moscou à Spotify",
+    "shortDesc": "Comment les artistes russes imposent une esthétique pop unique à l'international.",
+    "body": "Depuis quelques années, la pop russe connaît une ascension fulgurante grâce à des artistes mêlant synthwave, trap-pop et influences folkloriques.",
+    "publishDate": "1er Décembre 2025",
+    "topic": "Panorama",
+    "writer": "Fouzia",
+    "heroImage": "assets/texture/texture1.jpg",
+    "score": 4.7,
+    "viewsCount": 12054,
+    "readTime": "7 min",
+    "labels": [
+      "pop-russe",
+      "synthwave",
+      "indé",
+      "scène-moscovite"
+    ],
+    "titre": "La vague Pop Russe : de Moscou à Spotify",
+    "description": "Comment les artistes russes imposent une esthétique pop unique à l'international.",
+    "corps": "Depuis quelques années, la pop russe connaît une ascension fulgurante grâce à des artistes mêlant synthwave, trap-pop et influences folkloriques.",
+    "date": "1er Décembre 2025",
+    "theme": "Panorama",
+    "auteur": "Fouzia"
+  },
+  "storyList": [
+    {
+      "heading": "Icônes contemporaines de la pop russe",
+      "shortDesc": "Des voix qui façonnent le son actuel.",
+      "body": "Zivert, Monetochka, Klava Koka.",
+      "publishDate": "28 Novembre 2025",
+      "topic": "Artistes",
+      "writer": "Rédaction",
+      "image": "assets/texture/texture2.png",
+      "score": 4.5,
+      "viewsCount": 8932,
+      "readTime": "6 min",
+      "labels": [
+        "zivert",
+        "monetochka",
+        "klava-koka"
+      ],
+      "titre": "Icônes contemporaines de la pop russe",
+      "description": "Des voix qui façonnent le son actuel.",
+      "corps": "Zivert, Monetochka, Klava Koka.",
+      "date": "28 Novembre 2025",
+      "theme": "Artistes",
+      "auteur": "Rédaction"
+    },
+    {
+      "heading": "Clips et esthétique visuelle",
+      "shortDesc": "Néons, brutalisme et symboles.",
+      "body": "Ambiances nocturnes et palettes froides.",
+      "publishDate": "24 Novembre 2025",
+      "topic": "Visuels",
+      "writer": "Fouzia",
+      "image": "assets/texture/texture3.jpg",
+      "score": 4.6,
+      "viewsCount": 11025,
+      "readTime": "7 min",
+      "labels": [
+        "clips",
+        "néon",
+        "brutalisme"
+      ],
+      "titre": "Clips et esthétique visuelle",
+      "description": "Néons, brutalisme et symboles.",
+      "corps": "Ambiances nocturnes et palettes froides.",
+      "date": "24 Novembre 2025",
+      "theme": "Visuels",
+      "auteur": "Fouzia"
+    },
+    {
+      "heading": "Synth-pop et trap",
+      "shortDesc": "Textures électroniques et rythmiques urbaines.",
+      "body": "Hooks mélodiques et basses profondes.",
+      "publishDate": "20 Novembre 2025",
+      "topic": "Tendances",
+      "writer": "Rédaction",
+      "image": "assets/texture/texture4.jpg",
+      "score": 4.3,
+      "viewsCount": 7648,
+      "readTime": "5 min",
+      "labels": [
+        "synth-pop",
+        "trap",
+        "hooks"
+      ],
+      "titre": "Synth-pop et trap",
+      "description": "Textures électroniques et rythmiques urbaines.",
+      "corps": "Hooks mélodiques et basses profondes.",
+      "date": "20 Novembre 2025",
+      "theme": "Tendances",
+      "auteur": "Rédaction"
+    },
+    {
+      "heading": "Festivals et scènes locales",
+      "shortDesc": "Où découvrir la pop russe.",
+      "body": "Moscou, Kazan, Saint-Pétersbourg.",
+      "publishDate": "15 Novembre 2025",
+      "topic": "Événements",
+      "writer": "Fouzia",
+      "image": "assets/texture/texture5.jpg",
+      "score": 4.8,
+      "viewsCount": 15203,
+      "readTime": "9 min",
+      "labels": [
+        "festivals",
+        "live"
+      ],
+      "titre": "Festivals et scènes locales",
+      "description": "Où découvrir la pop russe.",
+      "corps": "Moscou, Kazan, Saint-Pétersbourg.",
+      "date": "15 Novembre 2025",
+      "theme": "Événements",
+      "auteur": "Fouzia"
+    },
+    {
+      "heading": "Playlists et plateformes",
+      "shortDesc": "Diffusion internationale.",
+      "body": "Spotify, Apple Music, Yandex Music.",
+      "publishDate": "10 Novembre 2025",
+      "topic": "Diffusion",
+      "writer": "Rédaction",
+      "image": "assets/texture/texture6.jpg",
+      "score": 4.6,
+      "viewsCount": 9876,
+      "readTime": "6 min",
+      "labels": [
+        "playlists",
+        "export"
+      ],
+      "titre": "Playlists et plateformes",
+      "description": "Diffusion internationale.",
+      "corps": "Spotify, Apple Music, Yandex Music.",
+      "date": "10 Novembre 2025",
+      "theme": "Diffusion",
+      "auteur": "Rédaction"
+    }
+  ],
+  "topicCards": [
+    {
+      "title": "Scène Moscou",
+      "desc": "Studios et labels.",
+      "icon": "🎛️",
+      "image": "assets/texture/texture7.jpg",
+      "hexColor": "#3B82F6",
+      "nom": "Scène Moscou",
+      "description": "Studios et labels."
+    },
+    {
+      "title": "Visuels",
+      "desc": "Clips et DA.",
+      "icon": "🎬",
+      "image": "assets/texture/texture7.jpg",
+      "hexColor": "#8B5CF6",
+      "nom": "Visuels",
+      "description": "Clips et DA."
+    },
+    {
+      "title": "Artistes",
+      "desc": "Icônes et émergents.",
+      "icon": "⭐",
+      "image": "assets/texture/texture7.jpg",
+      "hexColor": "#F59E0B",
+      "nom": "Artistes",
+      "description": "Icônes et émergents."
+    },
+    {
+      "title": "Tendances",
+      "desc": "Synth-pop, trap.",
+      "icon": "📈",
+      "image": "assets/texture/texture7.jpg",
+      "hexColor": "#10B981",
+      "nom": "Tendances",
+      "description": "Synth-pop, trap."
+    },
+    {
+      "title": "Événements",
+      "desc": "Festivals.",
+      "icon": "🚀",
+      "image": "assets/texture/texture7.jpg",
+      "hexColor": "#EC4899",
+      "nom": "Événements",
+      "description": "Festivals."
+    },
+    {
+      "title": "Playlists",
+      "desc": "Curations.",
+      "icon": "🎧",
+      "image": "assets/texture/texture7.jpg",
+      "hexColor": "#6B7280",
+      "nom": "Playlists",
+      "description": "Curations."
+    }
+  ],
+  "contributors": [
+    {
+      "firstName": "Fouzia",
+      "lastName": "",
+      "expertise": "Chroniqueuse musique",
+      "tagline": "Je raconte la scène pop russe.",
+      "about": "Observatrice des tendances musicales.",
+      "avatar": "assets/texture/texture7.jpg",
+      "mail": "fouzia@poprusse.com",
+      "articlesCount": 24,
+      "followersCount": 9500,
+      "prenom": "Fouzia",
+      "nom": "",
+      "typeExperience": "Chroniqueuse musique",
+      "presentation": "Je raconte la scène pop russe.",
+      "image": "assets/texture/texture7.jpg"
+    },
+    {
+      "firstName": "Alexei",
+      "lastName": "Volkov",
+      "expertise": "Producteur",
+      "tagline": "Synthés et textures.",
+      "about": "Producteur indépendant.",
+      "avatar": "assets/texture/texture7.jpg",
+      "mail": "alexei@poprusse.com",
+      "articlesCount": 15,
+      "followersCount": 6200,
+      "prenom": "Alexei",
+      "nom": "Volkov",
+      "typeExperience": "Producteur",
+      "presentation": "Synthés et textures.",
+      "image": "assets/texture/texture7.jpg"
+    },
+    {
+      "firstName": "Irina",
+      "lastName": "Petrova",
+      "expertise": "Curatrice",
+      "tagline": "Clips et DA.",
+      "about": "Analyses visuelles.",
+      "avatar": "assets/texture/texture7.jpg",
+      "mail": "irina@poprusse.com",
+      "articlesCount": 19,
+      "followersCount": 7000,
+      "prenom": "Irina",
+      "nom": "Petrova",
+      "typeExperience": "Curatrice",
+      "presentation": "Analyses visuelles.",
+      "image": "assets/texture/texture7.jpg"
+    }
+  ]
+}

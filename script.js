@@ -13,9 +13,49 @@ function getData() {
 
       // TODO 1: REMPLIR LE HEADER
 
+// 1 sélection du container
+const h1 = document.getElementById("nom-journal"); 
+console.log(h1);
+
+// 2 sélection de l'élément dans la data
+let nomJournal = journal.journalTitre;
+console.log(nomJournal);
+
+// 3 injecter le contenu dans le container
+h1.insertAdjacentHTML("beforeend", nomJournal);
+
+
+// 1 sélection du container
+const p = document.getElementById("phrase-accroche");
+console.log(p);
+
+// 2 sélection de l'élément dans la data
+let phraseAccroche = journal.hookPhrase;
+console.log(phraseAccroche);
+
+// 3 injecter le contenu dans le container
+p.insertAdjacentHTML("beforeend", phraseAccroche);
+
       // TODO 2: REMPLIR LA NAVIGATION
 
+//1
+const nav  = document.getElementById("themes-nav"); 
+console.log(nav);
+
+//2
+let themesNav = journal.brandMark;
+console.log(themesNav);
+
+//3
+nav.insertAdjacentHTML("beforeend", themesNav);
+
+
+// class="themes-nav">
+
+
+
       // TODO 3: REMPLIR L'ARTICLE PRINCIPAL
+
 
       // TODO 4: REMPLIR LA GRILLE D'ARTICLES
 
@@ -24,6 +64,16 @@ function getData() {
       // TODO 6: REMPLIR LES AUTEURS
 
       // TODO 7: REMPLIR LE BOUTON CALL TO ACTION
+
+
+
+      // const button = documentgetElementById('');
+
+      //console.log(button);
+      
+
+
+      // let call to action
 
 
       /// FIN DU CODE
